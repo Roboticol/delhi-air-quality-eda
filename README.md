@@ -1,7 +1,7 @@
 # Delhi Air Quality Data Cleaning & Visualization
 
-An exploratory data analysis (EDA) of Delhi's air quality using PM2.5 and PM10 data.  
-The project involves cleaning real-world data, visualizing seasonal trends,  
+An exploratory data analysis (EDA) of Delhi's air quality using PM2.5 and PM10 data.
+The project involves cleaning real-world data, visualizing seasonal trends,
 and identifying correlations between pollutants to understand pollution patterns.
 
 ## Table of Contents
@@ -15,8 +15,8 @@ and identifying correlations between pollutants to understand pollution patterns
 
 ## Introduction
 
-Delhi is often ranked among the most polluted cities globally.  
-This project analyzes PM2.5 and PM10 data to uncover seasonal trends,  
+Delhi is often ranked among the most polluted cities globally.
+This project analyzes PM2.5 and PM10 data to uncover seasonal trends,
 correlation between pollutants, and high-risk periods for air quality.
 
 ## Dataset
