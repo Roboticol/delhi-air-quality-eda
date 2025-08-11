@@ -21,9 +21,6 @@ correlation between pollutants, and high-risk periods for air quality.
 
 ## Dataset
 **Source:** [Delhi Air Quality Data | Kaggle](https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset/)  
-**Time Period Covered:** [Insert years]  
-**Format:** CSV  
-**Size:** [Rows x Columns]
 
 ## Skills and Tools used
 - Python
